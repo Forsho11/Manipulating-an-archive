@@ -1,0 +1,44 @@
+
+DADOS DA DISCIPLINA
+
+DISCIPLINA:
+
+Laboratório de Programação
+
+PROFESSOR(A):
+
+Mozart Lemos de Siqueira
+
+SEMESTRE:
+
+2023/1
+
+INSTRUÇÕES:
+
+O que é possível fazer com um arquivo?
+
+CONTEXTUALIZAÇÃO:
+
+De forma geral, todas as operações feitas em arquivos de fotos, documentos, entre outros, podem ser feitas com os arquivos dentro de algoritmos (programas).
+
+
+ 
+TAREFA:
+
+Entregar um fonte em Python para manipular um arquivo previamente existente. Para os testes, use este arquivo da descrição do trabalho e salve com texto.txt.  
+
+O programa deve abrir, ler o conteúdo do arquivo e mostrar, contar o número de caracteres e inserir uma frase e salvar (digitada pelo usuário do programa) no final do arquivo.
+
+CRITÉRIOS DE AVALIAÇÃO E DESCLASSIFICAÇÃO DO TRABALHO:
+
+CRITÉRIO                   PONTOS
+
+a) Abrir e contar os caracteres              3,00
+
+b) ler e mostrar o texto na tela                               3,00
+
+c) Escrever a frase no final do arquivo 3,00
+
+d) Organização da entrega 1,00
+
+TOTAL: 10,00
